@@ -1,0 +1,23 @@
+1. Given an array full of integers from 0 to 4 in random order how will you sort this array
+2. Given a singly linked list find if the list is a palindrome, you only have to head no length is given and you have to solve in one loop and one pass, O(n)
+3. Given a singly linked list and an integer n reverse the n size chunks and return the complete linked list. E.g. list 1->2->3->4->5->6 and n = 2 will return 2->1->4->3->6->5 
+4. two-sum problem in O(n) and a single loop
+5. balls in the bag problem
+
+6. Implement a queue using two stacks
+7. What is the 100 Doors problem?  https://www.youtube.com/watch?v=xwWdBj5WfCo
+
+
+8. How do you find the sum of two linked lists using Stack?
+9. 3Sum
+10. Why we use Stack Instead of Other?
+
+
+11. soting stack using stack: https://www.youtube.com/watch?v=K0XXVSL4wUo
+12. duplicate in linked list
+13. abstract classes vs interfaces
+14. Find wether circular loop exist inside the Linklist or not.
+15. Explain the HTTP request cycle.
+16. increase context window? # https://huggingface.co/gradientai/Llama-3-8B-Instruct-262k https://www.youtube.com/watch?v=ScSTs8sWLzM
+
+

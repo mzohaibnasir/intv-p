@@ -1,0 +1,58 @@
+1. Predictive Maintenance for Leased Vehicles
+
+Problem Statement: Create an AI model that predicts when leased vehicles will require maintenance based on usage patterns, vehicle sensor data, and historical maintenance records. The model should alert leasing companies when maintenance is due, reducing downtime and extending vehicle life.
+
+ 
+
+Expected Solution: An AI-powered dashboard that offers real-time predictive insights on vehicle health, optimized maintenance schedules, and cost projections.
+
+ 
+
+2. Automated Risk Assessment for Lease Approvals
+
+Problem Statement: Build an AI-driven risk assessment tool that analyzes a customer's financial history, credit score, employment records, and lease history to determine the risk associated with offering a lease. The solution should provide real-time approval or rejection decisions with detailed justifications.
+
+ 
+
+Expected Solution: A decision support system that accelerates the lease approval process while minimizing risk exposure for the leasing company.
+
+ 
+
+3. Residual Value Prediction for Leased Vehicles
+
+Problem Statement: Build a predictive AI model that estimates the residual value of leased vehicles at the end of their lease term. The model should consider factors like mileage, vehicle condition, market trends, and historical data to provide accurate predictions.
+
+ 
+
+Expected Solution: A tool for leasing companies to accurately predict residual values, improving lease terms and reducing losses at the end of lease cycles.
+
+ 
+
+4. Lease Payment Default Prediction
+
+Problem Statement: Develop a machine learning model that predicts the likelihood of a customer defaulting on their lease payments. The model should analyze a customer’s credit history, payment behavior, employment status, and external economic indicators to assess risk.
+
+ 
+
+Expected Solution: A predictive tool that helps leasing companies proactively manage high-risk customers, possibly offering restructured payment options to avoid defaults.
+
+ 
+
+5. AI-Based Vehicle Return Inspection
+
+Problem Statement: Create an AI-powered visual inspection tool that uses computer vision to evaluate the condition of returned vehicles. The tool should detect damages, assess wear and tear, and estimate repair costs, streamlining the vehicle return and reconditioning process.
+
+ 
+
+Expected Solution: An AI-driven vehicle inspection platform that reduces the time and cost of manual inspections while ensuring fair assessments for customers and leasing companies.
+
+ 
+
+6. AI-Based Lease Contract Analysis
+
+Problem Statement: Design an AI system that can analyze and compare lease contracts to ensure compliance with regulations, highlight key terms for customers, and identify potential risks for the leasing company. The system should help reduce contract review time.
+
+ 
+
+Expected Solution: An AI-based contract analysis tool that speeds up the review process and ensures all terms are clearly presented to both parties.
+
