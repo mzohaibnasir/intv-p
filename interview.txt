@@ -19,5 +19,27 @@
 14. Find wether circular loop exist inside the Linklist or not.
 15. Explain the HTTP request cycle.
 16. increase context window? # https://huggingface.co/gradientai/Llama-3-8B-Instruct-262k https://www.youtube.com/watch?v=ScSTs8sWLzM
+17. SDLC
+18. Agile methodogy
 
 
+api throling
+multintanet arch
+
+memory mangment in python: tools
+cirecular refrence
+dependency injection
+middleware
+docker networking
+
+cirecular breakers
+circular refrences 
+tools to manage memory in python
+lazy loading
+
+
+
+
+
+
+dependency injection
